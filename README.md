@@ -7,4 +7,4 @@ Encoding Ordinal Categorical variables: Label Encoder, Find_Replace and Ordinal 
 Refer: Feature_Engineering
 
 Managing Missing Values: Detecting null values, fillna() method and SimpleImpute() method
-Refer: Managing_missing_values
+Refer: Managing_missing_features
